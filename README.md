@@ -8,7 +8,7 @@ The Doubloon Descrier is a metal detecting robot that moves autonomously and det
   to a stepper motor. This signal is also sent to the Doubloon Descrier iOS app via the Bluefruit Adafruit LE 
   SPI Friend and allows the app to drop a virtual marker on the in-app map by getting GPS coordinates from
   the connected NEO-6M GPS Module.
-# ========================================================================================================= #
+# ================================================================= #
 
 # ======================================== ABOUT THE ARDUINO CODE ========================================= #
 This code allows you to program your own Doubloon Descrier Robot using an Arduino Mega.
